@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Jiangchen Li / CAT Site"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jiangchen Li"
+description              : &description "Jiangchen's CAT research site‘’"
+url                      : https://jiangchenli101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jiangchenli101/jiangchenli101.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiangchen LI "
+  name             : "Jiangchen Li / 李江晨 "
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow, Faculty of Engineering - Civil and Environmental Engineering Dept., University of Alberta, Connected and Automated Transportation (CAT)  "
+  bio              : "Postdoctoral Fellow, Faculty of Engineering - Civil and Environmental Engineering Dept., University of Alberta, Connected and Automated Transportation (CAT) "
   location         : "Edmonton, Alberta, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
