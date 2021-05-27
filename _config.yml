@@ -97,12 +97,12 @@ author:
   facebook         :
   foursquare       :
   github           : "jiangchenli101"
-  google_plus    :
+  google_plus      :
   keybase          :
-  instagram       :
-  impactstory    : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jiangchen-li-a1a9b140/?originalSubdomain=ca"
+  linkedin         : #"https://www.linkedin.com/in/jiangchen-li-a1a9b140/?originalSubdomain=ca"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
