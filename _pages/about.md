@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-###[Short Bio]
+### [Short Bio]
 This is a short bio.
 
-###[News]
+### [News]
 This is a hub for recent news.
 
-###[Reserved place]
+### [Reserved place]
 This is a reserved place for others. 
