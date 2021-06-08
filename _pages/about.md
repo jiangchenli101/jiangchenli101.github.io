@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academic personal website"
+title: "Connected and Automated Transportation (CAT) Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
