@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Connected and Automated Transportation (CAT) Research"
+title: "Integrated Connected and Automated Transportation (inCAT) Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
