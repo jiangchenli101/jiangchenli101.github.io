@@ -12,7 +12,7 @@ redirect_from:
 This is a short bio.
 
 ### [News]
-This is a hub for recent news.
+June, 2021: one our paper is accepted by 24th IEEE International Conference on Intelligent Transportation - IEEE ITSC 2021. (Top ITS conference, and I am the first author)
 
 ### [Reserved place]
-This is a reserved place for others. 
+This is a reserved place for others.
