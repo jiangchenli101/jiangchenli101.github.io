@@ -12,7 +12,8 @@ redirect_from:
 This is a short bio.
 
 ### [News]
-June, 2021: one our paper is accepted by 24th IEEE International Conference on Intelligent Transportation - IEEE ITSC 2021. (Top ITS conference, and I am the first author)
+Sep., 2021: one our journal paper is accepted. (Top ITS journal, and I am the first author)
+Jun., 2021: one our paper is accepted by 24th IEEE International Conference on Intelligent Transportation - IEEE ITSC 2021. (Top ITS conference, and I am the first author)
 
 ### [Reserved place]
 This is a reserved place for others.
