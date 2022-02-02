@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiangchen Li / CAT Site"
+title                       : "Jiangchen Li / CAT Site"
 title_separator          : "-"
 name                     : &name "Jiangchen Li"
 description              : &description "Jiangchen's CAT research site‘’"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiangchen Li / 李江晨 "
   avatar           : "profile.png"
-  bio                : "Associate Professor, College of Civil Aviation, Nanjing University of Aeronautics and Astronautics, Connected and Automated Transportation (CAT) "
+  bio                : "Associate Professor, College of Civil Aviation, Nanjing University of Aeronautics and Astronautics"
   location         : "Nanjing, Jiangsu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
