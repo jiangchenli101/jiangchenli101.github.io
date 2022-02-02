@@ -12,7 +12,7 @@ redirect_from:
 This is a short bio.
 
 ### [News]
--Jan. 2022: a new journey is opened in a new tiger year! Now I am a tenure-track Associate Professor in College of Civil Aviation in Nanjing University of Aeronautics and Astronautics. Hope everything will be fine and good luck to everyone. Welcome everyone to Nanjing, China!
+-2022: a new journey is opened in a new tiger year! Now I am a tenure-track Associate Professor in College of Civil Aviation in Nanjing University of Aeronautics and Astronautics. Hope everything will be fine and good luck to everyone. Welcome everyone to Nanjing, China!
 
 -Sep. 2021: one our journal paper is accepted. (Top ITS journal, and I am the first author).
 
